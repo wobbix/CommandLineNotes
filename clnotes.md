@@ -6,7 +6,8 @@
 * Previous directory
     * ` ..`
 * Root
-    * ` / ` forward slash
+    * ` / ` 
+    * forward slash
 
 ## Shells
 * BASH (born again shell)
